@@ -1,0 +1,26 @@
+Global exposure and vulnerability to multi-sector development and climate change hotspots
+Abstract
+Understanding the interplay between multiple climate change risks and socioeconomic development
+is increasingly required to inform effective actions to manage these risks and pursue sustainable
+development. We calculate a set of 14 impact indicators at different levels of global mean temperature
+(GMT) change and socioeconomic development covering water, energy and land sectors from an
+ensemble of global climate, integrated assessment and impact models. The analysis includes changes
+in drought intensity and water stress index, cooling demand change and heat event exposure, habitat
+degradation and crop yield, amongst others. To investigate exposure to multi-sector climate impacts,
+these are combined with gridded socioeconomic projections of population and those ‘vulnerable to
+poverty’ from three Shared Socioeconomic Pathways (SSP) (income <$10/day, currently 4.2 billion
+people). We show that global exposure to multi-sector risks approximately doubles between 1.5 ◦C
+and 2 ◦C GMT change, doubles again with 3 ◦C GMT change and is ∼6x between the best and worst
+cases (SSP1/1.5 ◦C vs SSP3/3 ◦C, 0.8–4.7bi). For populations vulnerable to poverty, the exposure is an
+order of magnitude greater (8–32x) in the high poverty and inequality scenarios (SSP3) compared to
+sustainable socioeconomic development (SSP1). Whilst 85%–95% of global exposure falls to Asian
+and African regions, they have 91%–98% of the exposed and vulnerable population (depending on
+SSP/GMT combination), approximately half of which in South Asia. In higher warming scenarios,
+African regions have growing proportion of the global exposed and vulnerable population, ranging
+from 7%–17% at 1.5 ◦C, doubling to 14%–30% at 2 ◦C and again to 27%–51% at 3 ◦C. Finally,
+beyond 2 ◦C and at higher risk thresholds, the world’s poorest are disproportionately impacted,
+particularly in cases (SSP3) of high inequality in Africa and southern Asia. Sustainable development
+that reduces poverty, mitigates emissions and meets targets in the water, energy and land sectors has
+the potential for order-of-magnitude scale reductions in multi-sector climate risk for the most
+vulnerable.
+Keywords: vulnerability, hotspots, climate change impacts, shared socioeconomic pathways, sustainable development goals, 1.5 ◦C

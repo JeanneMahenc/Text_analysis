@@ -1,0 +1,18 @@
+A systematic review of dynamics in climate risk and
+vulnerability assessments
+Abstract
+Understanding climate risk is crucial for effective adaptation action, and a number of assessment
+methodologies have emerged. We argue that the dynamics of the individual components in
+climate risk and vulnerability assessments has received little attention. In order to highlight this,
+we systematically reviewed 42 sub-national climate risk and vulnerability assessments. We
+analysed the assessments using an analytical framework with which we evaluated (1) the
+conceptual approaches to vulnerability and exposure used, (2) if current or future risks were
+assessed, and (3) if and how changes over time (i.e. dynamics) were considered. Of the reviewed
+assessments, over half addressed future risks or vulnerability; and of these future-oriented studies,
+less than 1/3 considered both vulnerability and exposure dynamics. While the number of studies
+that include dynamics is growing, and while all studies included socio-economic aspects, often
+only biophysical dynamics was taken into account. We discuss the challenges of assessing socioeconomic and spatial dynamics, particularly the poor availability of data and methods. We
+suggest that future-oriented studies assessing risk dynamics would benefit from larger stakeholder
+involvement, discussion of the assessment purpose, the use of multiple methods, inclusion of
+uncertainty/sensitivity analyses and pathway approaches.
+Keywords: dynamics, climate risk, vulnerability, exposure, assessment method, sub-national

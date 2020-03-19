@@ -1,0 +1,13 @@
+Changes in the effects of heat on mortality among the elderly from 1998-2010: results from a multicenter time series study in Italy.
+Abstract
+BACKGROUND:
+This multicenter study is aimed at estimating changes in the effect of high temperatures on elderly mortality before and after the 2003 heat waves and following the introduction of heat prevention activities.
+
+METHODS:
+A total of sixteen cities were included in the study. City-specific relationships between maximum apparent temperature (MAT) and elderly daily mortality before (1998-2002) and after (2006-2010) intervention were modelled through non-linear distributed lag models and estimates were combined using a random effect meta-analysis. We estimated the percentage change in daily mortality for 3°C variations in MAT above the 25th percentile of the June city-specific 1998-2002 distribution. A time-varying analysis was carried out to describe intra-seasonal variations in the two periods.
+
+RESULTS:
+We observed a reduction in high temperatures' effect post intervention; the greatest reduction was for increases in temperature from 9°C to 12°C above the 25th percentile, with a decrease from +36.7% to +13.3%. A weak effect was observed for temperatures up to 3°C above the 25th percentile only after. Changes were month-specific with a reduction in August and an increase in May, June and September in 2006-2010.
+
+CONCLUSIONS:
+A change in the temperature-mortality relationship was observed, attributable to variations in temperature distributions during summer and to the introduction of adaptation measures. The reduction in the effect of high temperature suggests that prevention programs can mitigate the impact. An effect of lower temperature remains, indicating a relevant impact of temperature at the beginning of summer when the population has not yet adapted and intervention activities are not fully operational.

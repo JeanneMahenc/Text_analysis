@@ -1,0 +1,6 @@
+Spatial variability in threshold temperatures of heat wave mortality: impact assessment on prevention plans.
+Abstract
+Spain's current heat wave prevention plans are activated according to administrative areas. This study analyses the determination of threshold temperatures for triggering prevention-plan activation by reference to isoclimatic areas, and describes the public health benefits. We subdivided the study area - the Madrid Autonomous Region (MAR) - into three, distinct, isoclimatic areas: 'North', 'Central' and 'South', and grouped daily natural-cause mortality (ICD-10: A00-R99) in towns of over 10,000 inhabitants (2000-2009 period) accordingly. Using these three areas rather than the MAR as a whole would have resulted in a possible decrease in mortality of 73 persons (38-108) in the North area, and in aborting unnecessary activation of the plan 153 times in the Central area and 417 times in the South area. Our results indicate that extrapolating this methodology would bring benefits associated with a reduction in attributable mortality and improved effectiveness of public health interventions.
+
+KEYWORDS:
+Heat wave; impact assessment; mortality; prevention plans; thresholds temperature

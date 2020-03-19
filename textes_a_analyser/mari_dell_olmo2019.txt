@@ -1,0 +1,12 @@
+Abstract
+Objectives
+To analyse social inequalities in the association between ambient temperature and mortality by sex, age and educational level, in the city of Barcelona for the period 1992–2015.
+
+Methods
+Mortality data are represented by daily counts for natural mortality. As a measure of socioeconomic position, we used the educational level of the deceased. We also considered age group and sex. We considered, as a measure of exposure, the daily maximum temperatures. Time-series Poisson regression with distributed lag non-linear models was fitted for modelling the relationship between temperature and mortality.
+
+Results
+Women had higher risk of mortality by hot temperatures than men. Temperature–mortality association (heat and cold) was evident for the elderly, except for heat-related mortality in women which was present in all age groups. Men with primary education or more were more vulnerable to moderate or extreme temperatures than those without studies. Finally, women were vulnerable to heat-related mortality in all educational levels while women without studies were more vulnerable to cold temperatures.
+
+Conclusions
+Social and economic individual characteristics play an important role in vulnerability to high and low temperatures. It is important that decision-making groups consider identified vulnerable subgroups when redacting and implementing climate change resilience and adaptation plans.

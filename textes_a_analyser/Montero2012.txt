@@ -1,0 +1,13 @@
+Influence of local factors in the relationship between mortality and heat waves: Castile-La Mancha (1975-2003).
+Abstract
+INTRODUCTION:
+All the climate-change studies undertaken to date agree that one of the principal consequences of this phenomenon is the increase in heat waves, which, without exception, are linked to marked rises in mortality. The characteristics that modulate and determine the relationship between high temperatures and health must therefore be ascertained in the greatest possible detail, so that really effective prevention plans can be designed to address temperature extremes.
+
+METHODS:
+We examined the effect of heat waves on daily non-accidental-cause mortality across all age groups in the Castile-La Mancha region (Spain) from 1975 to 2003. Quantitative analyses were performed using autoregressive integrated moving average (ARIMA) models, with other covariates, such as pressure trends, relative humidity, and duration and chronological number of heat waves.
+
+RESULTS:
+Mortality increased significantly with respect to the mean, when temperatures exceeded the designated provincial thresholds in Castile-La Mancha. For each degree centigrade that temperatures exceeded these thresholds, the percentage increase in mortality amounted to increases of approximately 12% over the daily mean, albeit with clear provincial variations. The longest heat waves were associated with daily mortality, with those at the end of summer causing the lowest mortality. Meteorological situations most closely associated with increases in mortality were cyclonic conditions accompanied by low humidity.
+
+CONCLUSIONS:
+Spatio-temporal variability in the temperature-mortality relationship must be studied in order to enable really effective heat-wave prevention plans to be drawn up. The influence of variables, such as heat-wave duration or time of appearance, is important in the total increase in mortality during temperature extremes. Since parameters, such as humidity or pressure trends, can play very different roles in different geographical settings, they should be analysed separately from temperature.
