@@ -5,9 +5,10 @@ liste_textes = dir(paste(getwd(), "/textes_a_analyser", sep=""))
 
 
 for(file in liste_textes){
-  
+ # text = ""
+ # docs = Corpus(VectorSource(text))
   texte = readLines(paste(getwd(),"/textes_a_analyser/",file, sep=""))
-  docs = Corpus(VectorSource(text))
+  docs = Corpus(VectorSource(texte))
   
   # Remplacer les caractères spéciaux non utiles par des espaces:
   toSpace = content_transformer(function(x, pattern) gsub(pattern, " ", x))
@@ -41,7 +42,8 @@ for(file in liste_textes){
   m = as.matrix(dtm)
   v = sort(rowSums(m), decreasing = TRUE)
   d = data.frame(word = names(v), freq=v)
-  head(d, 10) # On fait apparaitre les 10 mots les plus fréquents ainsi que leur nombre d'apparitions
-  
+  x = paste("freq_words_", file, sep="")
+  value = head(d,10)
+  eval(call("<-", as.name(x), value))
   
 }
